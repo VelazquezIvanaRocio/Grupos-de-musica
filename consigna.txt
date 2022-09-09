@@ -1,0 +1,11 @@
+Escribir un sitio web compuesto por dos paginas:
+
+1- Las dos paginas estaran en una carpeta con un nombre: grupos-de-musica
+
+2- definir un archivo index.html que mostrará un listado de grupos de musica (2 en total) y un link a las paginas que mostrará datos del de  cada uno de ellos
+
+3- Definir una pagina por cada grupo de musica donde se mostrará sus datos
+
+Adjunto las paginas de ejemplo.
+
+Posdata: las paginas pueden hacer referencia a cualquier grupo de musica o bien cualquier interprete de su gusto.
